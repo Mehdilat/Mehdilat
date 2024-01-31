@@ -7,6 +7,10 @@ Hello, I'm Mahdi! I'm a dedicated researcher and enthusiast in the fields of mac
 With a solid foundation acquired from CentraleSupélec, holding a Master's degree in Control, Signal, and Image Processing, complemented by an Engineering Degree from Ecole Nationale Polytechnique in Control and Signal Processing, I've developed a profound understanding of the multifaceted aspects of machine learning and computer vision.
 
 <!---
+### To Add
+
+- Add more AI.
+
 ### My Journey
 
 - **CentraleSupélec**: During my time here, I engaged deeply with advanced topics and methodologies in the realm of machine learning and image processing.
