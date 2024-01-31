@@ -16,7 +16,7 @@ With a solid foundation acquired from CentraleSupélec, holding a Master's degre
 - **Ecole Nationale Polytechnique**: My engineering thesis "Controlling a Mobile Robot via a Brain-Machine Interface, Detecting Fatigue Using EEG Signals" allowed me to delve into the intricate relationship between technology and human biological signals, pioneering in the domain of Brain-Machine Interfaces.
 --->
 
-## Research Interests
+## Interests
 
 I am deeply passionate about a variety of fields within AI and computing, with a particular focus on:
 
