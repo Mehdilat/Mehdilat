@@ -18,8 +18,6 @@ With a solid foundation acquired from CentraleSupélec, holding a Master's degre
 
 ## Interests
 
-I am deeply passionate about a variety of fields within AI and computing, with a particular focus on:
-
 - **Machine Learning**
 - **Deep Learning**
 - **Computer Vision**
