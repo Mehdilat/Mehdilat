@@ -35,6 +35,8 @@ Feel free to explore, fork, and contribute to the repositories. If you have any 
 
 This project employs a Convolutional Neural Network (CNN) using transfer learning, specifically a pre-trained VGGFace model, for binary facial classification to detect the presence of accessories and facial hair.
 
+The model is adapted for a two-class problem, and its preprocessing includes image resizing and normalization. To address class imbalance, a random weighted sampler and image augmentation techniques (like horizontal flips, rotations, jitter, and gaussian blur) are used during training. The CNN model is initialized with frozen backbone layers, and various training parameters are set, such as epochs, batch size, and learning rate.
+
 ### [Automatic Face Detection, Cropping and Resizing for Profile Picture Production](https://github.com/Mehdilat/Project-ProfilePicture-AutomaticFaceDetection)
 
 This project consists in implementing a pipeline for automatic face detection, cropping and resizing into the given shapes for profile pictures, using Pytorch and a pre-trained Yolov7 detection model.
