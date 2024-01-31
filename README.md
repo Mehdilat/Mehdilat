@@ -10,6 +10,9 @@ With a solid foundation acquired from CentraleSupélec, holding a Master's degre
 ### To Add
 
 - Add more AI.
+- Add OAI.
+- Add PET.
+- Add BCI.
 
 ### My Journey
 
