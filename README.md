@@ -21,22 +21,24 @@ This space is dedicated to sharing some of the projects I have been involved in.
 
 Feel free to explore, fork, and contribute to the repositories. If you have any questions or would like to collaborate on future projects, don't hesitate to reach out.
 
+### [Body Mass Index (BMI) Machine Learning Classification Pipeline](https://github.com/Mehdilat/Project-BodyMassIndex-ClassificationPipeline)
+
+This project involves developing, training, and evaluating machine learning models (SVM, KNN, Random Forests, XGBoost) to predict BMI categories based on individual data, integrating the best model into a Flask API, and deploying it using Docker on AWS EC2, with the application accessible for interaction and predictions at a specified URL.
+
 ### [Face Classification using a Pre-trained VGGFace Model](https://github.com/Mehdilat/Project-ClearFace-Classification)
 
-This project employs a Convolutional Neural Network (CNN) using transfer learning, specifically a pre-trained VGGFace model, for binary facial classification to detect the presence of accessories and facial hair.
-
-The model is adapted for a two-class problem, and its preprocessing includes image resizing and normalization. To address class imbalance, a random weighted sampler and image augmentation techniques (like horizontal flips, rotations, jitter, and gaussian blur) are used during training. The CNN model is initialized with frozen backbone layers, and various training parameters are set, such as epochs, batch size, and learning rate.
+This project leverages a pre-trained VGGFace CNN model with transfer learning for binary facial classification, utilizing image augmentation and a weighted sampling strategy to handle class imbalance, and fine-tunes the model with specific training parameters for the detection of facial accessories and hair.
 
 ### [Automatic Face Detection, Cropping and Resizing for Profile Picture Production](https://github.com/Mehdilat/Project-ProfilePicture-AutomaticFaceDetection)
 
-This project consists in implementing a pipeline for automatic face detection, cropping and resizing into the given shapes for profile pictures, using Pytorch and a pre-trained Yolov7 detection model.
+This project develops an automated pipeline using PyTorch and a pre-trained YOLOv7 model for detecting, cropping, and resizing faces in images to create standardized profile pictures, with a recommendation to download and view the potentially large files locally for optimal performance.
 
 ### [Semantic Segmentation of Aerial Satellite Images](https://github.com/Mehdilat/Project-SatelliteImages-SemanticSegmentation)
 
-This project consists in implementing a UNet CNN architecture for semantic segmentation of satellite ISPRS Potsdam data.
+This project implements a UNet Convolutional Neural Network for the semantic segmentation of aerial satellite imagery, specifically targeting the ISPRS Potsdam dataset, to differentiate and classify distinct land cover types in urban landscapes.
 
 ##
 
 Thank you for visiting my GitHub page. I hope you find the projects insightful and inspiring!
 
-Mahdi
+Mahdi.
