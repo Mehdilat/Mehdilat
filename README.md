@@ -25,7 +25,7 @@ Feel free to explore, fork, and contribute to the repositories. If you have any 
 
 This project involves developing, training, and evaluating machine learning models (SVM, KNN, Random Forests, XGBoost) to predict BMI categories based on individual data, integrating the best model into a Flask API, and deploying it using Docker on AWS EC2, with the application accessible for interaction and predictions at a specified URL.
 
-### [Face Classification using a Pre-trained VGGFace Model](https://github.com/Mehdilat/Project-ClearFace-Classification)
+### [Face Cover Detection using a Pre-trained VGGFace Model](https://github.com/Mehdilat/Project-FaceCover-Detection)
 
 This project leverages a pre-trained VGGFace CNN model with transfer learning for binary facial classification, utilizing image augmentation and a weighted sampling strategy to handle class imbalance, and fine-tunes the model with specific training parameters for the detection of facial accessories and hair.
 
