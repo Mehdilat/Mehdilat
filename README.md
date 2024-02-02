@@ -52,11 +52,14 @@ This project consists in implementing a pipeline for automatic face detection, c
 
 This project consists in implementing a UNet CNN architecture for semantic segmentation of satellite ISPRS Potsdam data.
 
+<!--
 ## Let's Connect
 
 I'm always on the lookout for new collaborations, learning opportunities, and interesting discussions in the field of AI and computer vision. If you share similar interests or have a project in mind, let's connect!
 
 - [LinkedIn](https://www.linkedin.com/in/mahdi-latreche/)
+-->
+##
 
 Thank you for visiting my GitHub page. I hope you find the projects insightful and inspiring!
 
