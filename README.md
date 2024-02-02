@@ -1,6 +1,6 @@
 # Welcome to Mahdi's GitHub
 
-Hello, I'm Mahdi! I'm a dedicated researcher and enthusiast in the fields of machine learning and computer vision, currently working at CNRS (Centre National de la Recherche Scientifique).
+Hello, I'm Mahdi! I'm a Machine Learning, Computer Vision, and Cloud Computing enthusiast, currently working at CNRS (Centre National de la Recherche Scientifique).
 
 ## About Me
 
