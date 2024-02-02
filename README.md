@@ -6,23 +6,6 @@ Hello, I'm Mahdi! I'm a dedicated researcher and enthusiast in the fields of mac
 
 With a solid foundation acquired from CentraleSupélec, holding a Master's degree in Control, Signal, and Image Processing, complemented by an Engineering Degree from Ecole Nationale Polytechnique in Control and Signal Processing, I've developed a profound understanding of the multifaceted aspects of machine learning and computer vision.
 
-<!---
-### To Add
-
-- Add more AI.
-- Add OAI.
-- Add PET.
-- Add BCI.
-
-### My Journey
-
-- **CentraleSupélec**: During my time here, I engaged deeply with advanced topics and methodologies in the realm of machine learning and image processing.
-  
-- **Internship at CEA Paris-Saclay**: I explored the cutting-edge topic of "Plug-and-Play Image Reconstruction for Positron Emission Tomography," where I combined theoretical knowledge with practical application to advance in this challenging field.
-  
-- **Ecole Nationale Polytechnique**: My engineering thesis "Controlling a Mobile Robot via a Brain-Machine Interface, Detecting Fatigue Using EEG Signals" allowed me to delve into the intricate relationship between technology and human biological signals, pioneering in the domain of Brain-Machine Interfaces.
---->
-
 ## Interests
 
 - **Machine Learning**
@@ -52,13 +35,6 @@ This project consists in implementing a pipeline for automatic face detection, c
 
 This project consists in implementing a UNet CNN architecture for semantic segmentation of satellite ISPRS Potsdam data.
 
-<!--
-## Let's Connect
-
-I'm always on the lookout for new collaborations, learning opportunities, and interesting discussions in the field of AI and computer vision. If you share similar interests or have a project in mind, let's connect!
-
-- [LinkedIn](https://www.linkedin.com/in/mahdi-latreche/)
--->
 ##
 
 Thank you for visiting my GitHub page. I hope you find the projects insightful and inspiring!
