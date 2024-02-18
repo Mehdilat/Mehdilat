@@ -17,7 +17,7 @@ With a solid foundation acquired from CentraleSupélec (France), holding a Maste
 
 ## My Work
 
-This repository is to act like a high level overview of the data science projects I've worked on. Each project's README.md should act as a full description of the project, but I'll provide a short description here for convenience. All of these projects are in Python. Links are provided to projects whose code can be made public.
+This repository is to act like a high level overview of the data science projects I've worked on. Each project's `README.md` should act as a full description of the project, but I'll provide a short description here for convenience. All of these projects are in Python. Links are provided to projects whose code can be made public.
 
 ### [Body Mass Index (BMI) Machine Learning Classification Pipeline](https://github.com/Mehdilat/Project-BodyMassIndex-ClassificationPipeline)
 
