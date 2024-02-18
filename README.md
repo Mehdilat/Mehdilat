@@ -1,10 +1,10 @@
 # Welcome to Mahdi's GitHub
 
-Hello, I'm Mahdi! I'm a Machine Learning, Computer Vision, and Cloud Computing enthusiast, currently working at CNRS (Centre National de la Recherche Scientifique).
+Hello, I'm Mahdi! I'm a Machine Learning, Computer Vision, and Cloud Computing enthusiast, currently working at CNRS (Centre National de la Recherche Scientifique) in France.
 
 ## About Me
 
-With a solid foundation acquired from CentraleSupélec, holding a Master's degree in Control, Signal, and Image Processing, complemented by an Engineering Degree from Ecole Nationale Polytechnique in Control and Signal Processing, I've developed a profound understanding of the multifaceted aspects of machine learning and computer vision.
+With a solid foundation acquired from CentraleSupélec (France), holding a Master's degree in Control, Signal, and Image Processing, complemented by an Engineering Degree from Ecole Nationale Polytechnique (Algeria) in Control and Signal Processing, I've developed a profound understanding of the multifaceted aspects of machine learning and computer vision.
 
 ## Interests
 
