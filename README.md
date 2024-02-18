@@ -17,9 +17,7 @@ With a solid foundation acquired from CentraleSupélec, holding a Master's degre
 
 ## My Work
 
-This space is dedicated to sharing some of the projects I have been involved in. Each repository represents a unique blend of creativity and technical skill, showcasing the application of machine learning and computer vision to solve real-world problems.
-
-Feel free to explore, fork, and contribute to the repositories. If you have any questions or would like to collaborate on future projects, don't hesitate to reach out.
+This repository is to act like a high level overview of the data science projects I've worked on. Each project's README.md should act as a full description of the project, but I'll provide a short description here for convenience. All of these projects are in Python. Links are provided to projects whose code can be made public.
 
 ### [Body Mass Index (BMI) Machine Learning Classification Pipeline](https://github.com/Mehdilat/Project-BodyMassIndex-ClassificationPipeline)
 
